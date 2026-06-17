@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Noko — Hunkyoutlook
 
-**Software Developer Student · NQF Level 5 · Pretoria, South Africa 🇿🇦**
+**Software Developer Student · NQF Level 5 · Pretoria, South Africa**
 
 I'm an aspiring software developer with a passion for building smart, practical solutions.  
 I thrive on learning by doing — from automation workflows to full app development.  
